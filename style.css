@@ -203,8 +203,9 @@ header {
 .menu-link {
     font-family: var(--font-actions);
     font-size: 2rem;
-    color: #555;
+    color: rgb(61, 60, 60);
     transition: color 1s;
+    line-height: 4rem;
 }
 
 .menu-link:hover {
@@ -220,7 +221,7 @@ header {
 }
 
 .social-media i {
-    color: #555;
+    color: rgb(61, 60, 60);
     height: 2.5rem;
     width: 2.5rem;
     font-size: 2rem;
